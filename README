@@ -1,1 +1,14 @@
-Exploratory data analysis of retail sales data with key KPIs (sales, profit, margin, discount impact) and visual insights.
+Project Summary:
+
+This project demonstrates descriptive statistical analysis and visualization on a retail sales dataset. Key business KPIs such as total sales, total profit, profit margin, and average discount were calculated. Category-level performance and the relationship between discounting and profitability were also analyzed and visualized.
+•	Exploratory data analysis with real-world-style retail data
+•	Calculation of business KPIs (Sales, Profit, Margin, Orders, Discounts)
+•	Category-level insights and performance comparison
+•	Visualization of discount–profit relationship to highlight pricing strategy implications
+Key Steps:	
+•	Data Preparation: Cleaned and converted columns for numerical analysis (Sales, Profit, Discount, Quantity).
+•	Descriptive KPIs: Computed total sales, profit margin, and unique orders.
+•	Category Analysis: Identified top categories by sales and profit, highlighting negative profit in Furniture.,
+•	Visualization: Plotted category comparisons and discount–profit impact.
+•	Insights: Derived business recommendations on discount policy and category-level strategies.
+
